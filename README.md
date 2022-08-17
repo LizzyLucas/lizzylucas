@@ -1,5 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/JkVnfE54QdOMQBxmHg/giphy.gif" width =250 /> 
+![GitHub Header](Img/Header.png)
+<div id="header" align="center"> 
   <h1>  :space_invader: print("Hi, devs! I'm <a href="https://www.linkedin.com/in/elizabethlucasgarcia/">Lizzie Lucas </a>):v:
 </div>
 
