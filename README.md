@@ -12,9 +12,11 @@
 
 <div align ="center">
 
-:trident:I’m currently learning **data science**, 🔭 I’m working on **thesis and personal projects** & :bar_chart: I’m looking to collaborate on **data processing and analysis projects**.
+:trident:I’m currently learning **data science**, 🔭 I’m working on **thesis and on this portfolio** & :bar_chart: I’m looking to collaborate on **data processing and analysis projects**.
 
 </div>
+
+* ** **
 
 <div>
   <h2>A little about me.</h2>
@@ -27,6 +29,8 @@
    :pushpin: Hackathonera<br>
   </b></p>
 </div>
+
+* ** **
 
 <div>
   <h2>My background.</h2> 
@@ -90,7 +94,16 @@ const Lizzie = {
   cloud: ['Azure','GCP']
 }
 ```
+* ** **
+<h3> My GitHub Stats </h3>
+<div align ="center">
+  <a href="https://github.com/lizzylucas">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=aleepsy&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true%22"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizzylucas&theme=dark&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
+* ** **
 
 <div>
 <img src="https://media.giphy.com/media/nnRG5giXc4coZ7xWCw/giphy.gif" width="110" > <em><b> "Be the (data-savvy) change you want to see in the world"</b> </em>
