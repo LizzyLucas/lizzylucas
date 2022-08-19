@@ -96,10 +96,11 @@ const Lizzie = {
 ```
 * ** **
 <h3> My GitHub Stats </h3>
+
 <div align ="center">
   <a href="https://github.com/LizzyLucas">
     <img height="120em" src="https://github-readme-stats.vercel.app/api?username=LizzyLucas&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true%22"/>
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LizzyLucas&theme=dark&hide_border=false&&layout=compact"/>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LizzyLucas&theme=dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
