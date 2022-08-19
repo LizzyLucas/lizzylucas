@@ -1,10 +1,10 @@
 ![GitHub Header](Img/Header.png)
 <div id="header" align="center"> 
-  <h1>  :space_invader: print("Hi, devs! I'm <a href="https://www.linkedin.com/in/elizabethlucasgarcia/">Lizzie Lucas </a>):v:
+  <h1>  :space_invader: print("Hi, devs! I'm <a href="https://www.linkedin.com/in/elizabethlucasg/">Lizzie Lucas </a>):v:
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/elizabethlucasgarcia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/elizabethlucasg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:lizzielucas.g@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white&color=red" target="_blank"></a>
   <a href="https://www.instagram.com/lizzielucas_g/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a>   
   <a href="https://twitter.com/lizzielucas_g"><img src="https://img.shields.io/badge/-Twitter-%1DA1F2?style=flat&logo=twitter&logoColor=white&color=1DA1F2" target="_blank"></a>
@@ -98,9 +98,9 @@ const Lizzie = {
 <h3> My GitHub Stats </h3>
 
 <div align ="center">
-  <a href="https://github.com/LizzyLucas">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=LizzyLucas&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true%22"/>
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LizzyLucas&theme=dark&hide_border=false&&layout=compact"/>
+  <a href="https://github.com/lizzylucas">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=lizzylucas&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true%22"/>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizzylucas&theme=dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
