@@ -3,13 +3,6 @@
   <h1>  :space_invader: print("Hi, devs! I'm <a href="https://www.linkedin.com/in/elizabethlucasg/">Lizzie Lucas </a>):v:
 </div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/elizabethlucasg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:lizzielucas.g@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white&color=red" target="_blank"></a>
-  <a href="https://www.instagram.com/lizzielucas_g/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a>   
-  <a href="https://twitter.com/lizzielucas_g"><img src="https://img.shields.io/badge/-Twitter-%1DA1F2?style=flat&logo=twitter&logoColor=white&color=1DA1F2" target="_blank"></a>
-</div>
-
 <div align ="center">
 
 :trident:I’m currently learning **data science**, 🔭 I’m working on **thesis and on this portfolio** & :bar_chart: I’m looking to collaborate on **data processing and analysis projects**.
@@ -41,13 +34,13 @@
     <img align="center" alt="SQLServer" height="30" width="40" src="https://www.tec-innova.mx/wp-content/uploads/2021/12/Imagen1.png">
   </a>  
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img align="center" alt="MySQL" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /> 
+  <img align="center" alt="MySQL" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> 
   </a>  
   <a href="https://powerbi.microsoft.com/es-mx/" target="_blank" rel="noreferrer">
-    <img align="center" alt="PoweBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png">
+    <img align="center" alt="PowerBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png">
   </a>  
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img align="center" alt="Tableu" height="30" width="40" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png">
+    <img align="center" alt="Tableau" height="30" width="40" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png">
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -81,7 +74,7 @@
   </a>  
   <a href="https://www.microsoft.com/es-mx/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img align="center" alt="Excel" height="30" width="40" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png">
-  </a>  
+    </a>  
 </div><br>
 
 ```javascript
@@ -105,8 +98,24 @@ const Lizzie = {
 </div>
 
 * ** **
-
-<div>
-<img src="https://media.giphy.com/media/nnRG5giXc4coZ7xWCw/giphy.gif" width="110" > <em><b> "Be the (data-savvy) change you want to see in the world"</b> </em>
-</div>
+<h2> Connect with me.</h2>
+   <div>
+      <img src="https://media.giphy.com/media/nnRG5giXc4coZ7xWCw/giphy.gif" width="100" align="right">
+   </div>
+   
+   <div>
+    <a href="https://www.linkedin.com/in/elizabethlucasg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank">
+    </a> 
+    <a href="mailto:lizzielucas.g@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white&color=red" target="_blank"></a>
+    <a href="https://www.instagram.com/lizzielucas_g/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" target="_blank">
+    </a>   
+    <a href="https://twitter.com/lizzielucas_g"><img src="https://img.shields.io/badge/-Twitter-%1DA1F2?style=flat&logo=twitter&logoColor=white&color=1DA1F2" target="_blank">
+    </a>
+   </div>
+   
+   <div>
+     <em><b> "Be the (data-savvy) change you want to see in the world." </b></em>
+   </div>
+   
+  
 
