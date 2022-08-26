@@ -33,9 +33,6 @@
   <a href="https://www.microsoft.com/es-mx/sql-server/" target="_blank" rel="noreferrer">
     <img align="center" alt="SQLServer" height="30" width="40" src="https://www.tec-innova.mx/wp-content/uploads/2021/12/Imagen1.png">
   </a>  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img align="center" alt="MySQL" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> 
-  </a>  
   <a href="https://powerbi.microsoft.com/es-mx/" target="_blank" rel="noreferrer">
     <img align="center" alt="PowerBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png">
   </a>  
@@ -44,30 +41,15 @@
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  </a> 
-   <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer">
-    <img align="center" alt="R" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Rlogo.png">
-  </a>  
+  </a>   
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/" target="_blank" rel="noreferrer">
     <img align="center" alt="Csharp" height="30" width="40" src="https://static.cdnlogo.com/logos/c/68/c-sharp-800x800.png">
   </a>  
     <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img align="center" alt="Jupyter" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  </a>  
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </a> 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img align="center" alt="Azure" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-  </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img align="center" alt="gcp" width="40" height="30" src="https://logodownload.org/wp-content/uploads/2021/06/google-cloud-logo-1.png" />
-  </a>   
-   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   </a>  
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img align="center" alt="Github" height="35" width="35" src="https://cdn.iconscout.com/icon/free/png-512/github-153-675523.png">
@@ -92,8 +74,8 @@ const Lizzie = {
 
 <div align ="center">
   <a href="https://github.com/lizzylucas">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lizzylucas&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true%22"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizzylucas&theme=dark&hide_border=false&&layout=compact"/>
+    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=lizzylucas&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true%22"/>
+    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizzylucas&theme=dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
