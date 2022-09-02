@@ -18,7 +18,7 @@
    :pushpin: Computer Systems Engineer<br>
    :pushpin: Beta Milestone <a href="https://github.com/MLSA-LATAM"> MLSA </a><br>
    :pushpin: Co-founder <a href="https://github.com/orgs/x-women-mx/teams/founders"> X-Women </a><br>
-   :pushpin: Ambassador of Tecnolochicas MX<br>
+   :pushpin: Ambassador of <a href="https://tecnolochicas.mx/"> Tecnolochicas MX </a><br>
    :pushpin: Hackathonera<br>
   </b></p>
 </div>
