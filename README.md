@@ -14,7 +14,7 @@
 <div>
   <h2>A little about me.</h2>
   <p align="left"><b>
-   :pushpin: Jr Data Analyst<br>
+   :pushpin: Data Analyst<br>
    :pushpin: Computer Systems Engineer<br>
    :pushpin: Beta Milestone <a href="https://github.com/MLSA-LATAM"> MLSA </a><br>
    :pushpin: Co-founder <a href="https://github.com/orgs/x-women-mx/teams/founders"> X-Women </a><br>
@@ -61,11 +61,11 @@
 
 ```javascript
 const Lizzie = {  
-  databases: ['SQL Server', 'MySQL'],
-  data: ['SSIS','ETLs','KPIs'],
+  databases: ['SQL Server', 'MySQL', 'Postgresql'],
+  data: ['SSIS','ETLs','KPIs', 'DB management'],
   visualization: ['PowerBI', 'Tableu'],
   code: ['Python','C#', 'R', 'Java', 'HTML', 'CSS', 'Javascript'],
-  tools: ['Jupyter','Power Pivot', 'Excel', 'DB management'],
+  tools: ['Jupyter','Power Pivot', 'Excel'],
   cloud: ['Azure','GCP']
 }
 ```
@@ -75,8 +75,9 @@ const Lizzie = {
 
 <div align ="center">
   <a href="https://github.com/lizzylucas">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lizzylucas&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true%22"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lizzylucas&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true%22"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizzylucas&theme=dark&hide_border=false&&layout=compact"/>
+    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=lizzylucas&theme=dark&hide_border=false&show_owner=true%22"/>
   </a>
 </div>
 
