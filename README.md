@@ -1,4 +1,4 @@
-![GitHub Header](Img/Header.png)
+![GitHub Header](Img/Banner.png)
 <div id="header" align="center"> 
   <h1>  :space_invader: print("Hi, devs! I'm <a href="https://www.linkedin.com/in/elizabethlucasg/">Lizzie Lucas </a>):v:
 </div>
