@@ -1,11 +1,11 @@
-![GitHub Header](Img/Banner.png)
+![GitHub Header](Img/Header.png)
 <div id="header" align="center"> 
-  <h1>  :space_invader: print("Hi, devs! I'm <a href="https://www.linkedin.com/in/elizabethlucasg/">Lizzie Lucas </a>):v:
+  <h1>  :space_invader: print("Hi, devs! I'm <a href="https://www.linkedin.com/in/elizabethlucasg/">Lizzie Lucas</a>"):v:
 </div>
 
 <div align ="center">
 
-:trident:I’m currently learning **data science**, 🔭 I’m working on **thesis and on this portfolio** & :bar_chart: I’m looking to collaborate on **data processing and analysis projects**.
+:trident:I’m currently learning **data science**, 🔭 I love giving talks or **workshops on data and cloud** & :bar_chart: I’m looking to collaborate on **data processing and analysis projects**.
 
 </div>
 
@@ -66,7 +66,7 @@ const Lizzie = {
   visualization: ['PowerBI', 'Tableu'],
   code: ['Python','C#', 'R', 'Java', 'HTML', 'CSS', 'Javascript'],
   tools: ['Jupyter','Power Pivot', 'Excel'],
-  cloud: ['Azure','GCP']
+  cloud: ['Azure','GCP', 'OCI']
 }
 ```
 * ** **
