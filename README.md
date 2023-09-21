@@ -68,9 +68,9 @@ I am passionate about creating innovative and efficient solutions to complex pro
 ```javascript
 const Lizzie = {  
   databases: ['Azure SQL Server', 'Synapse', 'Autonomous'],
-  data: [,'ETLs','KPIs', 'DB management','pipelines'],
+  data: ['ETL','KPI', 'DB management','pipelines'],
   bi: ['Power BI', 'Power Apps'],
-  code: ['Python','Databricks', 'Sparck', 'JSON'],
+  code: ['Python','Databricks', 'Spark', 'JSON'],
   cloud: ['Azure','GCP', 'OCI'],
   tools: ['Jupyter','Azure Data Studio', 'Excel']
 }
