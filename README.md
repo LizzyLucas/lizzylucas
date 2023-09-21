@@ -1,5 +1,5 @@
 
-  ![GitHub Header](Img/Header.JPG)
+  ![GitHub Header](Img/Header.png)
 
 
 <div id="header" align="center"> 
@@ -8,8 +8,9 @@
 
 <div align ="center">
 
-:trident:I’m currently learning **data science**, 🔭 I love giving talks or **workshops on data and cloud** & :bar_chart: I’m looking to collaborate on **data processing and analysis projects**.
-
+🔭I am a **data engineer** who loves to **explore, analyze and visualize data.** :bar_chart:
+ 
+I am passionate about creating innovative and efficient solutions to complex problems using tools such as _Python, SQL, ADF, Databricks and Azure_. I also like to share my knowledge and experiences with other people, especially **women who want to enter the STEM field.** For this reason, I actively participate in **technological communities** where I give workshops and mentoring on topics related to data. **My goal** is to continue learning and growing as a professional and as a person, and contribute to the development of data engineering in the world. :trident:
 </div>
 
 * ** **
@@ -17,11 +18,9 @@
 <div>
   <h2>A little about me.</h2>
   <p align="left"><b>
-   :pushpin: Data Analyst<br>
+   :pushpin: Data Engineer<br>
    :pushpin: Computer Systems Engineer<br>
-   :pushpin: Beta Milestone <a href="https://github.com/MLSA-LATAM"> MLSA </a><br>
-   :pushpin: Co-founder <a href="https://github.com/orgs/x-women-mx/teams/founders"> X-Women </a><br>
-   :pushpin: Ambassador of <a href="https://tecnolochicas.mx/"> Tecnolochicas MX </a><br>
+   :pushpin: Co-founder <a href="https://github.com/orgs/x-women-mx/teams/founders"> X-Women community</a><br>
    :pushpin: Hackathonera<br>
   </b></p>
 </div>
@@ -32,44 +31,48 @@
   <h2>My background.</h2> 
 <div</>
 
+
+  
 <div align="center" valign="top"><br>
+
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+    <img align="center" alt="Azure" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  </a>
+  <a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
+    <img align="center" alt="Csharp" height="40" width="40" src="https://keestalkstech.com/wp-content/uploads/2020/04/databricks_logo.png">
+  </a>
   <a href="https://www.microsoft.com/es-mx/sql-server/" target="_blank" rel="noreferrer">
     <img align="center" alt="SQLServer" height="30" width="40" src="https://www.tec-innova.mx/wp-content/uploads/2021/12/Imagen1.png">
   </a>  
-  <a href="https://powerbi.microsoft.com/es-mx/" target="_blank" rel="noreferrer">
-    <img align="center" alt="PowerBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png">
-  </a>  
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img align="center" alt="Tableau" height="30" width="40" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png">
+  <a href="https://adf.azure.com" target="_blank" rel="noreferrer">
+    <img align="center" alt="Azure" width="40" height="40" src="https://www.analytics8.com/wp-content/uploads/2022/01/azure-data-factory.png" />
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  </a>   
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/" target="_blank" rel="noreferrer">
-    <img align="center" alt="Csharp" height="30" width="40" src="https://static.cdnlogo.com/logos/c/68/c-sharp-800x800.png">
-  </a>  
-    <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img align="center" alt="Jupyter" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+  </a>     
+  <a href="https://powerapps.microsoft.com/" target="_blank" rel="noreferrer">
+    <img align="center" alt="Jupyter" width="60" height="60" src="https://www.faction-a.ca/wp-content/uploads/2021/02/power-apps-logo-800-600-563x563.png" />
   </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img align="center" alt="Azure" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-  </a>  
+    <a href="https://powerbi.microsoft.com/es-mx/" target="_blank" rel="noreferrer">
+    <img align="center" alt="PowerBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png">
+  </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img align="center" alt="Github" height="35" width="35" src="https://cdn.iconscout.com/icon/free/png-512/github-153-675523.png">
   </a>  
   <a href="https://www.microsoft.com/es-mx/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img align="center" alt="Excel" height="30" width="40" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png">
-    </a>  
+  </a>  
+    
 </div><br>
 
 ```javascript
 const Lizzie = {  
-  databases: ['SQL Server', 'MySQL', 'Postgresql'],
-  data: ['SSIS','ETLs','KPIs', 'DB management'],
-  visualization: ['PowerBI', 'Tableu'],
-  code: ['Python','C#', 'R', 'Java', 'HTML', 'CSS', 'Javascript'],
-  tools: ['Jupyter','Power Pivot', 'Excel'],
-  cloud: ['Azure','GCP', 'OCI']
+  databases: ['Azure SQL Server', 'Synapse', 'Autonomous'],
+  data: [,'ETLs','KPIs', 'DB management','pipelines'],
+  bi: ['Power BI', 'Power Apps'],
+  code: ['Python','Databricks', 'Sparck', 'JSON'],
+  cloud: ['Azure','GCP', 'OCI'],
+  tools: ['Jupyter','Azure Data Studio', 'Excel']
 }
 ```
 * ** **
