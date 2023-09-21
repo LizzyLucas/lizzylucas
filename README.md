@@ -72,7 +72,8 @@ const Lizzie = {
   bi: ['Power BI', 'Power Apps'],
   code: ['Python','Databricks', 'Spark', 'JSON'],
   cloud: ['Azure','GCP', 'OCI'],
-  tools: ['Jupyter','Azure Data Studio', 'Excel']
+  tools: ['Jupyter','Azure Data Studio', 'Excel'],
+  certifications: ['DP-900','PL-900', 'AZ-900', 'SFC' 'Databricks Lakehouse Fundamentals']
 }
 ```
 * ** **
